@@ -1,0 +1,6 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikungunya, E
+Carmen Sarmientos, dolores de parto, B
+Pedro Hernandez, dolor de cabeza, D
+Ana García, fiebre alta, A
